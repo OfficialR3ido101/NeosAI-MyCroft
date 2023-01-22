@@ -3,6 +3,6 @@
 
 ### Known bugs
 
-- Doubles send back to neos.
+- Sending double responses.
 
 Made for creator Jam 191
