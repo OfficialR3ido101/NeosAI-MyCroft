@@ -6,5 +6,14 @@
 
 Made for creator Jam 191
 
-NO SUPPORT - ARCHIVED IF PEOPLE WANT TO USE IT.
+## Install instructions
 
+Install Sox on your OS
+
+Install mimic3
+https://mycroft-ai.gitbook.io/docs/mycroft-technologies/mimic-tts/mimic-3
+
+Install mimic3
+https://mycroft-ai.gitbook.io/docs/using-mycroft-ai/get-mycroft/linux
+
+NO SUPPORT - ARCHIVED IF PEOPLE WANT TO USE IT.
